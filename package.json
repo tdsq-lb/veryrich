@@ -2,7 +2,7 @@
   "name": "veryrich",
   "version": "0.2.0",
   "private": true,
-  "homepage": "http://diw1.github.io/veryrich",
+  "homepage": "/",
   "dependencies": {
     "antd": "^4.9.3",
     "axios": "^0.19.2",
